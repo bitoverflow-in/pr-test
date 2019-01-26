@@ -5,4 +5,4 @@ René Descartes was born in La Haye en Touraine (now Descartes, Indre-et-Loire),
 
 blah blah
 
-test for open_pr
+test for open_pr: didn't work the first time
